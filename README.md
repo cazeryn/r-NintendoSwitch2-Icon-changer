@@ -6,8 +6,7 @@ To install:
 3. Enable Developer mode
 4. Click on "Load unpacked" and then click on the folder you just unzipped
 
-To change the icon:
-If you already have a link to your image go to step 3, if not proced
+To change the icon, If you already have a link to your image go to step 3, if not proced
 1. Get you icon and head to imgur.com and click on the new post button in the top left and upload you photo
 2. Right click on your icon and click "Copy image link" Do not click on the "Grab a link" box on the right
 3. Go to the unzipped folder you just downloaded and open up the "content.js" file with any app that supports .js files such as notepad and vscode

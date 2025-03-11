@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "r/NintendoSwitch2 Icon Replacer",
+  "version": "1.0",
+  "description": "Replace the icon with one that you prefer",
+  "permissions": ["scripting"],
+  "host_permissions": ["*://www.reddit.com/*"],
+  "icons": {
+    "48": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

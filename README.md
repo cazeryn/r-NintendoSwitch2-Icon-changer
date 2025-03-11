@@ -1,6 +1,5 @@
-# r-NintendoSwitch2-Icon-changer
-Change the icon of the subreddit to your liking
-To install:
+# r/NintendoSwitch2 Icon changer
+Change the icon of the subreddit to your liking, To install:
 1. Download and extract the zip file
 2. Open a browser window (on a chromium based browser) and enter "chrome://extensions"
 3. Enable Developer mode
